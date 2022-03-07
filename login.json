@@ -32,6 +32,13 @@
       "password": "Qwerty@1",
       "confirmpassword": "Qwerty@1",
       "id": 4
+    },
+    {
+      "name": "Kamesh CHINNASAMY",
+      "email": "kamesh.chinnasamy@alten-india.com",
+      "password": "Qwerty@1",
+      "confirmpassword": "Qwerty@1",
+      "id": 5
     }
   ],
   "profile": {
